@@ -1,1 +1,1 @@
-web: java -jar target/api-andre-tattoo-0.0.1-SNAPSHOT.jar
+web: java -jar target/apiandretattoo-0.0.1-SNAPSHOT.jar
